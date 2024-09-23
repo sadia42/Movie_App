@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/imageee"
+    tools:context=".Admin_choice">
+    <TextView
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-90dp"
+        android:background="#F2F7F7"
+        android:backgroundTint="#7CCBDA"
+        android:textAlignment="center"
+        android:text="MOVIE APP"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:textColor="#374949"
+        android:textSize="40sp"
+        android:textStyle="bold"></TextView>
+
+    <Button
+        android:gravity="center"
+        android:layout_width="300dp"
+        android:layout_marginTop="30dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button111"
+        android:text="Brief Data"
+        />
+
+    <Button
+        android:gravity="center"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button112"
+        android:text="Search Movies"
+        />
+</LinearLayout>

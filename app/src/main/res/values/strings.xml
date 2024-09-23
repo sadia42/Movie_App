@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="email">  EMAIL</string>
+    <string name="password">   PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">"No account? SIGNUP"</string>
+    <string name="signupButton">SIGN UP</string>
+    <string name="titletext">MOVIE APP</string>
+    <string name="logintext">"Already have an account? LOGIN"</string>
+    <string-array name="movies">
+        <item>Titanic</item>
+        <item>Mulan</item>
+        <item>The Help</item>
+        <item>Moana</item>
+        <item>Fight Club</item>
+        <item>La La Land</item>
+        <item>Pulp Fiction</item>
+        <item>Inside Out</item>
+        <item>Easy A</item>
+        <item>Clueless</item>
+        <item>The Post</item>
+        <item>2012</item>
+        <item>Malificent</item>
+        <item>Devil Wears Prada</item>
+        <item>Tangled</item>
+
+    </string-array>
+</resources>
