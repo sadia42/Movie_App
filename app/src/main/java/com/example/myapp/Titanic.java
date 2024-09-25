@@ -73,28 +73,7 @@ public class Titanic extends AppCompatActivity {
                 String Rvalue = ratingText.getText().toString().trim();
             }
         });
-      //  youTubePlayerView=(YouTubePlayerView) findViewById(R.id.youtube_view);
-     //oninitialized=new YouTubePlayer.OnInitializedListener() {
-            //@Override
-           // public void onInitializationSuccess(YouTubePlayer.Provider provider, YouTubePlayer youTubePlayer, boolean b) {
-              //  youTubePlayer.loadVideo("nuQR4noBvac");
-
-         //  }
-
-            //@Override
-          // public void onInitializationFailure(YouTubePlayer.Provider provider, YouTubeInitializationResult youTubeInitializationResult) {
-
-           //}
-      //};
-       //button=(Button)findViewById(R.id.button);
-
-        //button.setOnClickListener(new View.OnClickListener() {
-                                    // @Override
-                                     // public void onClick(View v) {
-                                         // youTubePlayerView.initialize("AIzaSyDbs3m3QyfhDwP7VKzAVvRn3BP02l-y2tg",oninitialized);
-                                   //   }
-                            //     }
-       //);
+    
         Fetcht fetchdata=new Fetcht();
         fetchdata.execute();
 
