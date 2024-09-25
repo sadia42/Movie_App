@@ -37,7 +37,7 @@
       ],
       "api_key": [
         {
-          "current_key": "" //due to security issues the API is removed.
+          "current_key": "" //due to security issues the API key is removed.
         }
       ],
       "services": {
